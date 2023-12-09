@@ -7,3 +7,7 @@ testcases:
 * `"twone"`: 21
 * `"asdfdsa5"`: 55
 * `"oneight"`: 81
+
+### Day 2
+
+easy
