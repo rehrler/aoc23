@@ -11,3 +11,11 @@ testcases:
 ### Day 2
 
 easy
+
+### Day 3
+
+postponed
+
+### Day 4
+
+easy
